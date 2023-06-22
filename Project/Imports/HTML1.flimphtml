@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResourcesLocation="NoImport"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="content"
+  LastImport="2023-06-22T10:53:10.1346056-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../HTML IMPORT/Content/HTML1.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/HTML IMPORT/Content/HTML1.htm" />
+    <Url
+      Source="../../../HTML IMPORT/Content/HTML2.htm"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/HTML IMPORT/Content/HTML2.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/HTML1.htm"
+      TimeStamp="6/22/2023 10:53:06 AM" />
+    <Url
+      Source="../../Content/HTML2.htm"
+      TimeStamp="6/22/2023 10:53:06 AM" />
+    <Url
+      Source="../TOCs/HTML1.fltoc"
+      TimeStamp="6/22/2023 10:53:09 AM" />
+  </GeneratedFiles>
+</HtmlImport>
