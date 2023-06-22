@@ -1,32 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MsWordImport
-  ImportFolder=""
-  LastImport="2023-06-22T10:41:29.0318223-07:00">
-  <Files>
-    <Url
-      Source="../../../../WORD IMPORT.docx"
-      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/WORD IMPORT.docx" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles />
-  <SkippedSourceFiles />
-  <GeneratedFiles>
-    <Url
-      Source="../../Content/Import this.htm"
-      TimeStamp="6/22/2023 10:41:25 AM" />
-    <Url
-      Source="../TOCs/WORD IMPORT.fltoc"
-      TimeStamp="6/22/2023 10:41:25 AM" />
-    <Url
-      Source="../../Content/Resources/Stylesheets/WORD IMPORT.css"
-      TimeStamp="6/22/2023 10:41:25 AM" />
-  </GeneratedFiles>
-  <ParagraphStyles>
-    <Map
-      From="List Paragraph"
-      To="p.ListParagraph"
-      Style="Word" />
-  </ParagraphStyles>
-  <CharacterStyles />
-  <NewTopicStyles />
+<MsWordImport ImportFolder="" LastImport="2023-06-22T10:44:32.4190107-07:00">
+    <Files>
+        <Url Source="../../../../WORD IMPORT.docx" AbsoluteSource="file:///C:/Users/cecheverria/Desktop/WORD IMPORT.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Import this.htm" TimeStamp="6/22/2023 10:44:28 AM" />
+        <Url Source="../TOCs/WORD IMPORT.fltoc" TimeStamp="6/22/2023 10:44:28 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/WORD IMPORT.css" TimeStamp="6/22/2023 10:44:28 AM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="List Paragraph" To="p.ListParagraph" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles />
 </MsWordImport>
