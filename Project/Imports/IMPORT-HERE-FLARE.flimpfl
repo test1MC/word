@@ -21,19 +21,19 @@
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../IMPORT-HERE-FLARE/Content/TOPIC 1.htm"
+      Source="../../../IMPORT-HERE-FLARE/Content/TOPIC 1.htm"
       AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 1.htm" />
     <Url
-      Source="../IMPORT-HERE-FLARE/Content/TOPIC 2.htm"
+      Source="../../../IMPORT-HERE-FLARE/Content/TOPIC 2.htm"
       AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 2.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="Content/TOPIC 1.htm"
+      Source="../../Content/TOPIC 1.htm"
       TimeStamp="6/22/2023 9:26:48 AM" />
     <Url
-      Source="Content/TOPIC 2.htm"
+      Source="../../Content/TOPIC 2.htm"
       TimeStamp="6/22/2023 9:26:55 AM" />
   </GeneratedFiles>
 </CatapultProject>
