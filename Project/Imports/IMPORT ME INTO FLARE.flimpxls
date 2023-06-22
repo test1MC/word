@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2023-06-22T09:41:03.2049119-07:00">
+  <Files>
+    <Url
+      Source="../../../../IMPORT ME INTO FLARE.xlsx"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/IMPORT ME INTO FLARE.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Table1.css"
+      TimeStamp="6/22/2023 9:40:53 AM" />
+    <Url
+      Source="../../Content/IMPORT ME INTO FLARE/Sheet1.htm"
+      TimeStamp="6/22/2023 9:40:55 AM" />
+    <Url
+      Source="../TOCs/IMPORT ME INTO FLARE.fltoc"
+      TimeStamp="6/22/2023 9:40:55 AM" />
+  </GeneratedFiles>
+</MsExcelImport>
