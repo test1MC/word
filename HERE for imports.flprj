@@ -1,39 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject
-  Version="1"
-  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
-  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
-  MasterStylesheetOverride="True"
-  xml:lang="en-us"
-  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
-  IncludePattern="*.htm;*.html"
-  AutoExcludeNonTaggedFiles="false"
-  IncludeLinkedFiles="false"
-  DeleteStale="false"
-  DeleteUnreferenced="false"
-  AutoSync="true"
-  LastImport="2023-06-22T09:28:27.0161907-07:00">
-  <Files>
-    <Url
-      Source="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/IMPORT-HERE-FLARE.flprj"
-      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/IMPORT-HERE-FLARE.flprj" />
-  </Files>
-  <ExcludedFiles />
-  <CollectedSourceFiles>
-    <Url
-      Source="../IMPORT-HERE-FLARE/Content/TOPIC 1.htm"
-      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 1.htm" />
-    <Url
-      Source="../IMPORT-HERE-FLARE/Content/TOPIC 2.htm"
-      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 2.htm" />
-  </CollectedSourceFiles>
-  <SkippedSourceFiles />
-  <GeneratedFiles>
-    <Url
-      Source="Content/TOPIC 1.htm"
-      TimeStamp="6/22/2023 9:26:48 AM" />
-    <Url
-      Source="Content/TOPIC 2.htm"
-      TimeStamp="6/22/2023 9:26:55 AM" />
-  </GeneratedFiles>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." IncludePattern="*.htm;*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="false" DeleteUnreferenced="false" AutoSync="true" LastImport="2023-06-22T09:28:27.0161907-07:00">
+    <Files>
+        <Url Source="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/IMPORT-HERE-FLARE.flprj" AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/IMPORT-HERE-FLARE.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../IMPORT-HERE-FLARE/Content/TOPIC 1.htm" AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 1.htm" />
+        <Url Source="../IMPORT-HERE-FLARE/Content/TOPIC 2.htm" AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/IMPORT-HERE-FLARE/Content/TOPIC 2.htm" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/TOPIC 1.htm" TimeStamp="6/22/2023 9:26:48 AM" />
+        <Url Source="Content/TOPIC 2.htm" TimeStamp="6/22/2023 9:26:55 AM" />
+    </GeneratedFiles>
 </CatapultProject>

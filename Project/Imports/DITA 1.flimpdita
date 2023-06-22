@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DitaImport
+  ProjectName="HERE for imports"
+  ProjectFolder="C:\Users\cecheverria\Desktop\TRIAGE\HERE for imports\"
+  KeepSourceLinks="true"
+  KeepElementIDs="false"
+  CreateSeparateTocs="true"
+  SaveContentToOneFolder="true"
+  LastImport="2023-06-22T10:26:00.8192904-07:00">
+  <Files>
+    <Url
+      Source="../../../DITA/Output/cecheverria/HTML5/Content/DITA 1.dita"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/DITA/Output/cecheverria/HTML5/Content/DITA 1.dita" />
+    <Url
+      Source="../../../DITA/Output/cecheverria/HTML5/Content/DITA2.dita"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/DITA/Output/cecheverria/HTML5/Content/DITA2.dita" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../DITA/Output/cecheverria/HTML5/Content/DITA 1.dita"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/DITA/Output/cecheverria/HTML5/Content/DITA 1.dita" />
+    <Url
+      Source="../../../DITA/Output/cecheverria/HTML5/Content/DITA2.dita"
+      AbsoluteSource="file:///C:/Users/cecheverria/Desktop/TRIAGE/DITA/Output/cecheverria/HTML5/Content/DITA2.dita" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/DITA 1/DITA 1.htm"
+      TimeStamp="6/22/2023 10:25:56 AM" />
+    <Url
+      Source="../../Content/DITA 1/DITA2.htm"
+      TimeStamp="6/22/2023 10:25:56 AM" />
+    <Url
+      Source="../TOCs/DITA 1.fltoc"
+      TimeStamp="6/22/2023 10:25:56 AM" />
+    <Url
+      Source="../../Content/DITA 1/DITA 1.css"
+      TimeStamp="6/22/2023 10:25:56 AM" />
+  </GeneratedFiles>
+  <ImportStyles />
+</DitaImport>

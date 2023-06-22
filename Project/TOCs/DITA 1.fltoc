@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="DITA 1"
+    Link="/Content/DITA 1/DITA 1.htm" />
+  <TocEntry
+    Title="DITA2"
+    Link="/Content/DITA 1/DITA2.htm" />
+</CatapultToc>
